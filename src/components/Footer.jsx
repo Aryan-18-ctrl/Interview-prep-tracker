@@ -100,8 +100,9 @@ const Footer = () => {
               </a>
 
               <a
-                href="www.linkedin.com/in/aryanggupta"
-                target="_blank"
+href="https://www.linkedin.com/in/aryanggupta/"
+
+target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn profile"
                 className="inline-flex items-center gap-2 rounded-xl border border-slate-200 px-4 py-2.5 text-sm font-medium text-slate-600 transition hover:border-blue-200 hover:bg-blue-50 hover:text-blue-600"
