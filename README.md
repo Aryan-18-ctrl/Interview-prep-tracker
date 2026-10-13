@@ -36,8 +36,7 @@ Open the local URL provided by Vite in the terminal.
 npm run dev      # Start the development server
 npm run build    # Create a production build
 npm run preview  # Preview the production build
-npm run lint     # Check code using ESLint
-```
+
 
 ## How It Works
 
