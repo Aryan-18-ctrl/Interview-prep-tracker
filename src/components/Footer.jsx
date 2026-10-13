@@ -88,7 +88,7 @@ const Footer = () => {
 
             <div className="flex flex-wrap gap-3">
               <a
-                href="https://github.com/YOUR_USERNAME"
+                href="https://github.com/Aryan-18-ctrl/Interview-prep-tracker"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="GitHub profile"
@@ -100,7 +100,7 @@ const Footer = () => {
               </a>
 
               <a
-                href="https://www.linkedin.com/in/YOUR_USERNAME/"
+                href="www.linkedin.com/in/aryanggupta"
                 target="_blank"
                 rel="noopener noreferrer"
                 aria-label="LinkedIn profile"
