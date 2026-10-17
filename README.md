@@ -101,6 +101,16 @@ src/
 
 ## What I Learned
 
-While building this project, I practised managing shared state with React Context, handling forms and validation, implementing CRUD operations, filtering data, storing data in LocalStorage, and building a responsive dashboard.
+While building this project, I practised managing shared state using React Context, handling forms and validation, implementing CRUD operations, filtering data, storing data in LocalStorage, and building a responsive dashboard.
 
-The project helped me understand how to connect different React components and keep the UI updated when the underlying data changes.
+This project helped me understand how to connect different React components and keep the UI updated whenever the underlying data changes.
+
+## Project Video Walkthrough
+
+[Click here to watch the project walkthrough](https://drive.google.com/drive/folders/1WrUL86_FCzgUnfjkhVsDkCeDtrzkxzKk?usp=sharing)
+
+
+
+
+
+
